@@ -1,5 +1,5 @@
 package testmod
 
-const Version = "0.1"
+const Version = "0.2"
 
 
